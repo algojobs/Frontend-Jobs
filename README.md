@@ -1,40 +1,132 @@
 # Frontend Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 05/18/2025
+This data is updated weekly, with filled postings removed. Last updated: 06/15/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Frontend Jobs](https://algojobs.io/jobs/front-end)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 05/16/2025 | [Software Engineer II, Frontend Platform](https://algojobs.io/jobs/4110420) | [Wayfair](https://algojobs.io/company/wayfair/) | N/A | Boston, MA |
-| 05/16/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4109239) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Guadalajara, Jalisco, Mexico |
-| 05/16/2025 | [Graduate Intern - Software Engineer FrontEnd Intern](https://algojobs.io/jobs/4113612) | [1291 Roche Polska Sp. z o.o.](https://algojobs.io/company/roche/) | N/A | Sant Cugat del Vallès, Spain |
-| 05/16/2025 | [Senior Frontend Software Development Engineer - People Analytics](https://algojobs.io/jobs/4113820) | [Workday, Inc.](https://algojobs.io/company/workday/) | N/A | IND.Chennai, India |
-| 05/16/2025 | [STAFF, SOFTWARE ENGINEER - Frontend](https://algojobs.io/jobs/4115190) | [Walmart](https://algojobs.io/company/walmart/) | N/A | IN KA BANGALORE Home Office Building 10, India |
+| 06/13/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/4373014) | [Impact.com](https://algojobs.io/company/impact/) | $90K - $120K | Victoria, British Columbia, Canada |
+| 06/13/2025 | [Mid-Level Frontend Developer](https://algojobs.io/jobs/4372368) | [AB InBev  \| Growth Group](https://algojobs.io/company/abinbev/) | N/A | Campinas, Brazil |
+| 06/13/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/4372995) | [Pricefox](https://algojobs.io/company/pricefox/) | N/A | Athens, Greece |
+| 06/13/2025 | [Desarrollador Senior Frontend](https://algojobs.io/jobs/4373055) | [NEORIS](https://algojobs.io/company/neoris/) | N/A | Madrid, Spain |
+| 06/13/2025 | [Senior Software Engineer - Frontend - Consumer](https://algojobs.io/jobs/4375161) | [Kraken](https://algojobs.io/company/kraken.com/) | N/A | Europe |
+| 06/13/2025 | [React Frontend Software Engineer](https://algojobs.io/jobs/4371779) | [capital.com](https://algojobs.io/company/capital/) | N/A | Warsaw, Mazowieckie, Poland / Limassol, Cyprus / Vilnius, Vilniaus, Lithuania / ... (Hybrid) |
+| 06/13/2025 | [Senior Frontend Engineer (OneWeb Foundation)](https://algojobs.io/jobs/4377338) | [ING Hubs B.V. Philippine Branch](https://algojobs.io/company/ing/) | N/A | ACT (Amsterdam - Acanthus), Netherlands |
+| 06/12/2025 | [Senior Software Developer, Frontend](https://algojobs.io/jobs/4359446) | [Hootsuite](https://algojobs.io/company/hootsuite/) | N/A | Bucharest, Romania |
+| 06/12/2025 | [FrontEnd Software Engineer Sênior (Afirmativa para Mulheres)](https://algojobs.io/jobs/4347484) | [iFood](https://algojobs.io/company/ifoodcarreiras/) | N/A | Brasil |
+| 06/12/2025 | [Senior Frontend Engineer, Ecosystem (Partnership Infrastructure)](https://algojobs.io/jobs/4362000) | [Airwallex](https://algojobs.io/company/airwallex/) | N/A | CN - Shanghai |
+| 06/12/2025 | [Sr. Frontend Engineer](https://algojobs.io/jobs/4364377) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | EMEA - Poland - Kraków - Lubomirskiego |
+| 06/11/2025 | [Senior Frontend Engineer, Growth](https://algojobs.io/jobs/4346474) | [ClickUp](https://algojobs.io/company/clickup/) | $160K - $205K | United States |
+| 06/11/2025 | [Software Engineer II, Frontend](https://algojobs.io/jobs/4346809) | [Brex](https://algojobs.io/company/brex/) | N/A | São Paulo, São Paulo, Brazil |
+| 06/11/2025 | [Senior Software Engineer, Web Vault (Frontend)](https://algojobs.io/jobs/4345096) | [Keeper Security, Inc.](https://algojobs.io/company/keepersecurity/) | N/A | El Dorado Hills, California, United States (Remote) |
+| 06/11/2025 | [FrontEnd Engineer (Mobile)](https://algojobs.io/jobs/4345368) | [Ajaib](https://algojobs.io/company/ajaib/) | N/A | Jakarta, Jakarta, Indonesia (Hybrid) |
+| 06/11/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4349054) | [Isometric](https://algojobs.io/company/isometric/) | N/A | London |
+| 06/11/2025 | [FrontEnd Developer](https://algojobs.io/jobs/4345093) | [Novibet](https://algojobs.io/company/novibet/) | N/A | Athens, Attica, Greece (Hybrid) |
+| 06/11/2025 | [Senior Frontend Developer (CONTRACT) Hybrid - Flexible Options](https://algojobs.io/jobs/4352436) | [Broadridge Financial Solutions, Inc.](https://algojobs.io/company/broadridge/) | N/A | New York-Home Office / Newark, NJ (Hybrid) |
+| 06/10/2025 | [Staff Software Engineer - Frontend](https://algojobs.io/jobs/4334095) | [Skydio](https://algojobs.io/company/skydio/) | N/A | San Mateo, California, United States |
+| 06/10/2025 | [Frontend Software Engineer - Checkout SDK](https://algojobs.io/jobs/4333905) | [Adyen](https://algojobs.io/company/adyen/) | N/A | Amsterdam |
+| 06/10/2025 | [Software Engineer, Frontend - Institutional Product Group](https://algojobs.io/jobs/4334471) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - Singapore |
+| 06/10/2025 | [Frontend Developer](https://algojobs.io/jobs/4333178) | [Xebia](https://algojobs.io/company/xgs/) | N/A | Xebia |
+| 06/10/2025 | [Software Engineer II, Frontend (Accommodation)](https://algojobs.io/jobs/4319260) | [tiket.com](https://algojobs.io/company/tiket/) | N/A | Noida (Hybrid) |
+| 06/10/2025 | [Software Engineer III - Frontend](https://algojobs.io/jobs/4339940) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | (USA) SUNNYVALE CROSSMAN AVENUE CA SUNNYVALE Home Office, United States of America |
+| 06/10/2025 | [Junior Software Engineer, Frontend (Accommodation)](https://algojobs.io/jobs/4319263) | [tiket.com](https://algojobs.io/company/tiket/) | N/A | Jakarta (Hybrid) |
+| 06/10/2025 | [Senior Frontend Developer - Utilities](https://algojobs.io/jobs/4333005) | [Kraken ](https://algojobs.io/company/kraken123/) | N/A | London (Hybrid) |
+| 06/09/2025 | [Desarrollador Frontend Web Sr.](https://algojobs.io/jobs/4320440) | [NEORIS](https://algojobs.io/company/neoris/) | N/A | Chile |
+| 06/09/2025 | [Software Engineer 3 Frontend](https://algojobs.io/jobs/4320148) | [Behavox](https://algojobs.io/company/behavox/) | N/A | Montreal |
+| 06/09/2025 | [Software Engineer 3 Frontend](https://algojobs.io/jobs/4320146) | [Behavox](https://algojobs.io/company/behavox/) | N/A | Toronto |
+| 06/09/2025 | [Frontend Automation Engineer](https://algojobs.io/jobs/4319866) | [Rush Street Interactive](https://algojobs.io/company/rushstreetinteractive/) | N/A | Estonia, Malta, Serbia |
+| 06/09/2025 | [Frontend Developer (SFIA 4)](https://algojobs.io/jobs/4318324) | [Zaizi](https://algojobs.io/company/zaizi/) | N/A | London, England, United Kingdom |
+| 06/06/2025 | [Frontend Engineer](https://algojobs.io/jobs/4293622) | [10Pearls - LATAM](https://algojobs.io/company/10pearls/) | N/A | LATAM |
+| 06/06/2025 | [(USA) Staff, Software Engineer - Frontend](https://algojobs.io/jobs/4317503) | [Walmart](https://algojobs.io/company/walmart/) | $143K - $286K | Sunnyvale, CA, United States of America |
+| 06/06/2025 | [Frontend Developer (SFIA3)](https://algojobs.io/jobs/4313059) | [Zaizi](https://algojobs.io/company/zaizi/) | $34K - $6500K | London, England, United Kingdom |
+| 06/05/2025 | [Frontend Engineer, Release Monitoring](https://algojobs.io/jobs/4295581) | [LaunchDarkly](https://algojobs.io/company/launchdarkly/) | $167K - $210K | US (Remote) |
+| 06/05/2025 | [Frontend Web Developer](https://algojobs.io/jobs/4293115) | [Viz.ai](https://algojobs.io/company/vizai/) | N/A | Israel - hybrid |
+| 06/05/2025 | [Frontend Growth Engineer - Berlin / Cologne/ Remote](https://algojobs.io/jobs/4293823) | [eyeo](https://algojobs.io/company/eyeo/) | N/A | Berlin / Remote |
+| 06/05/2025 | [Frontend Engineer](https://algojobs.io/jobs/4291972) | [CREATEQ](https://algojobs.io/company/createq-space/) | N/A | Iași, Iași County, Romania (Hybrid) |
+| 06/05/2025 | [Frontend Engineer](https://algojobs.io/jobs/4291974) | [CREATEQ](https://algojobs.io/company/createq-space/) | N/A | Chișinău, Chisinau, Moldova, Republic of (Hybrid) |
+| 06/04/2025 | [Senior Frontend Engineer - Discovery UX](https://algojobs.io/jobs/4281265) | [Roblox](https://algojobs.io/company/roblox/) | $238K - $289K | San Mateo, CA, United States |
+| 06/04/2025 | [Software Engineer, Frontend - Risk Platform](https://algojobs.io/jobs/4280883) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $152K - $179K | USA (Remote) |
+| 06/04/2025 | [Betsson Academy - Frontend Software Engineer Intern](https://algojobs.io/jobs/4280574) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Budapest |
+| 06/04/2025 | [Senior Frontend/UI Engineer](https://algojobs.io/jobs/4279890) | [Mitratech](https://algojobs.io/company/mitratech/) | N/A | UK Remote |
+| 06/04/2025 | [Software Engineer - Frontend (Javascript, Typescript)](https://algojobs.io/jobs/4281745) | [Altium](https://algojobs.io/company/altium/) | N/A | Lisbon, Portugal Office |
+| 06/04/2025 | [Senior Software Engineer, Frontend (Consumer - Trading)](https://algojobs.io/jobs/4267279) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $186K - $218K | USA (Remote) |
+| 06/04/2025 | [Senior/Lead Frontend Software Engineer (React)](https://algojobs.io/jobs/4279095) | [IDT](https://algojobs.io/company/idt/) | N/A | Chișinău / Minsk / Tbilisi / ... (Remote) |
+| 06/03/2025 | [Software Engineer, Mail (Frontend)](https://algojobs.io/jobs/4266944) | [Notion](https://algojobs.io/company/notion/) | $176K - $250K | San Francisco, California; New York, New York; |
+| 06/03/2025 | [Expert Software Engineer, Frontend](https://algojobs.io/jobs/4269657) | [Activision Blizzard](https://algojobs.io/company/activision/) | $105K - $222K | Work from Home - Canada BC |
+| 06/03/2025 | [Frontend Software Engineer - Contract](https://algojobs.io/jobs/4268640) | [Earned](https://algojobs.io/company/earnedwealth/) | N/A | Remote |
+| 06/03/2025 | [Senior Software Engineer (Frontend) (SaaS)](https://algojobs.io/jobs/4264717) | [CreditorWatch](https://algojobs.io/company/creditorwatch/) | N/A | Sydney, New South Wales, Australia (Hybrid) |
+| 06/03/2025 | [Sublime - Sr Frontend Engineer (TS, React)](https://algojobs.io/jobs/4268653) | [Silver.dev](https://algojobs.io/company/silver/) | N/A | Argentina |
+| 06/02/2025 | [Sr. Software Engineer - Frontend](https://algojobs.io/jobs/4252997) | [Care.com](https://algojobs.io/company/carecom/) | $140K - $170K | Dallas, TX |
+| 06/02/2025 | [Sr. Software Engineer - Frontend](https://algojobs.io/jobs/4252984) | [Care.com](https://algojobs.io/company/carecom/) | $140K - $170K | Austin, TX |
+| 06/02/2025 | [Sr. Software Engineer - Frontend](https://algojobs.io/jobs/4252983) | [Care.com](https://algojobs.io/company/carecom/) | $140K - $170K | Salt Lake City, UT |
+| 06/02/2025 | [Staff Frontend Engineer, Link Payment Experience](https://algojobs.io/jobs/4253809) | [Stripe](https://algojobs.io/company/stripe/) | N/A | New York, NY |
+| 06/02/2025 | [Software Engineer Intern - Frontend](https://algojobs.io/jobs/4250678) | [ShopBack](https://algojobs.io/company/shopback-2/) | N/A | Ho Chi Minh, Vietnam (Hybrid) |
+| 06/02/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4257583) | [Just Eat Takeaway.com](https://algojobs.io/company/takeaway/) | N/A | Bristol Office, United Kingdom |
+| 06/02/2025 | [FrontEnd Lead](https://algojobs.io/jobs/4250371) | [Truv](https://algojobs.io/company/truv/) | N/A | Cyprus / Montenegro / Spain / ... (Remote) |
+| 05/31/2025 | [SDE 1 Frontend](https://algojobs.io/jobs/4244037) | [One Impression](https://algojobs.io/company/oneimpression/) | N/A | Gurugram |
+| 05/30/2025 | [Engineer – Frontend](https://algojobs.io/jobs/4236807) | [Lakeside Software](https://algojobs.io/company/lakesidesoftware/) | N/A | Warsaw, Poland |
+| 05/30/2025 | [Principal Platform Engineer (Frontend)](https://algojobs.io/jobs/4237661) | [Vonage](https://algojobs.io/company/vonage/) | N/A | Wrocław (hybrid) |
+| 05/30/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4236873) | [Snyk](https://algojobs.io/company/snyk/) | N/A | London, UK |
+| 05/30/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4223682) | [Kaizen Gaming](https://algojobs.io/company/kaizengaming/) | N/A | Sofia, Bulgaria |
+| 05/29/2025 | [Frontend Software Engineer - University Graduate 2025](https://algojobs.io/jobs/4223673) | [Verkada](https://algojobs.io/company/verkada/) | $120K - $280K | San Mateo, CA United States |
+| 05/29/2025 | [(1083) Senior Frontend Javascript Engineer](https://algojobs.io/jobs/4221994) | [Nearsure](https://algojobs.io/company/nearsure/) | N/A | Latin America - Remote |
+| 05/29/2025 | [Staff Frontend Engineer](https://algojobs.io/jobs/4224855) | [Isometric](https://algojobs.io/company/isometric/) | N/A | London |
+| 05/28/2025 | [Senior Frontend Engineer (React)](https://algojobs.io/jobs/4209130) | [Credit Karma](https://algojobs.io/company/creditkarma/) | N/A | Bengaluru, Karnataka, India |
+| 05/28/2025 | [Software Engineer, Frontend - Emerging Talent (Consumer)](https://algojobs.io/jobs/4209613) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - UK |
+| 05/28/2025 | [Frontend Native SDET](https://algojobs.io/jobs/4209690) | [Vonage](https://algojobs.io/company/vonage/) | N/A | Remote, Spain |
+| 05/28/2025 | [Senior Frontend Engineer - React](https://algojobs.io/jobs/4209019) | [Encora](https://algojobs.io/company/encora10/) | N/A | Ahmedabad |
+| 05/28/2025 | [Senior Software Engineer - Frontend](https://algojobs.io/jobs/4209790) | [Boomi ](https://algojobs.io/company/boomilp/) | N/A | India |
+| 05/28/2025 | [Software Development Engineer 3 - Frontend Performance](https://algojobs.io/jobs/4212753) | [ADUS-Adobe Inc.](https://algojobs.io/company/adobe/) | N/A | Noida, India |
+| 05/27/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4194425) | [Rush Street Interactive](https://algojobs.io/company/rushstreetinteractive/) | N/A | Canada |
+| 05/27/2025 | [Sr. Engineer, Frontend, Growth](https://algojobs.io/jobs/4197083) | [Zapier](https://algojobs.io/company/zapier/) | N/A | NAMER |
+| 05/26/2025 | [Pessoa Arquiteta Corporativa Frontend \| Time Core](https://algojobs.io/jobs/4189647) | [C6 Bank](https://algojobs.io/company/c6bank/) | N/A | São Paulo, Brazil |
+| 05/26/2025 | [Software Engineer, Frontend Infrastructure](https://algojobs.io/jobs/4265393) | [StackAdapt](https://algojobs.io/company/stackadapt/) | N/A | Canada (Remote) |
+| 05/26/2025 | [Software Engineer Intern - Frontend 前端開發實習生](https://algojobs.io/jobs/4188954) | [ShopBack](https://algojobs.io/company/shopback-2/) | N/A | Taipei, Taiwan (Hybrid) |
+| 05/26/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4189991) | [DataSnipper](https://algojobs.io/company/datasnipper.com/) | N/A | Amsterdam |
+| 05/26/2025 | [Frontend Engineer (CDC)](https://algojobs.io/jobs/4188128) | [Makro PRO](https://algojobs.io/company/joinmakropro/) | N/A | Phra Nakhon Si Ayutthaya, Phra Nakhon Si Ayutthaya District, Thailand (Hybrid) |
+| 05/23/2025 | [Frontend Developer](https://algojobs.io/jobs/4185485) | [Autodesk](https://algojobs.io/company/autodesk/) | $78K - $114K | Montreal, QC, CAN / Vancouver, BC, CAN |
+| 05/22/2025 | [Software Engineer - Frontend](https://algojobs.io/jobs/4172306) | [Pave](https://algojobs.io/company/paveakatroveinformationtechnologies/) | N/A | New York, NY |
+| 05/22/2025 | [Senior Software Engineer - Frontend](https://algojobs.io/jobs/4157891) | [Pave](https://algojobs.io/company/paveakatroveinformationtechnologies/) | N/A | New York, NY |
+| 05/22/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4157669) | [Roofr](https://algojobs.io/company/roofr/) | N/A | Remote - Canada |
+| 05/22/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/4160368) | [FLYR](https://algojobs.io/company/flyr/) | N/A | Kraków, Poland |
+| 05/22/2025 | [Sr. Frontend Software Engineer - Alternatives](https://algojobs.io/jobs/4158681) | [Addepar](https://algojobs.io/company/addepar1/) | N/A | Pune, India |
+| 05/21/2025 | [Senior Software Engineer (Frontend)](https://algojobs.io/jobs/4144151) | [Home Solutions](https://algojobs.io/company/homesolutions/) | N/A | Charlotte, NC |
+| 05/21/2025 | [Software Engineer - Frontend (VueJS, TS, JS)](https://algojobs.io/jobs/4145853) | [Altium](https://algojobs.io/company/altium/) | N/A | Poland Remote |
+| 05/21/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/4156557) | [Bitwise Asset Management](https://algojobs.io/company/bitwiseinvestments/) | $150K - $170K | Remote |
+| 05/21/2025 | [Frontend Engineer](https://algojobs.io/jobs/4141846) | [INCELLIGENT](https://algojobs.io/company/incelligent-1/) | N/A | Nea Smyrni, Attica, Greece (Hybrid) |
+| 05/21/2025 | [FrontEnd Developer - ReactJS MTS 2](https://algojobs.io/jobs/4143623) | [Nielsen](https://algojobs.io/company/nielsen/) | N/A | Mumbai, India (Hybrid) |
+| 05/21/2025 | [FrontEnd Developer - ReactJS MTS 2](https://algojobs.io/jobs/4143630) | [Nielsen](https://algojobs.io/company/nielsen/) | N/A | Gurgaon, HR, India (Hybrid) |
+| 05/20/2025 | [Software Engineer, Frontend - Marketing Automations](https://algojobs.io/jobs/4131726) | [Squarespace](https://algojobs.io/company/squarespace/) | N/A | Dublin |
+| 05/20/2025 | [Staff Software Engineer - Frontend](https://algojobs.io/jobs/4143035) | [Agiloft](https://algojobs.io/company/agiloft/) | N/A | United States (Remote) |
+| 05/20/2025 | [Lead Frontend Engineer](https://algojobs.io/jobs/4143162) | [Halter](https://algojobs.io/company/halter/) | N/A | Auckland |
+| 05/20/2025 | [FrontEnd Developer - ReactJS MTS 2](https://algojobs.io/jobs/4130011) | [Nielsen](https://algojobs.io/company/nielsen/) | N/A | Bangalore, India (Hybrid) |
+| 05/19/2025 | [Software Engineer - Frontend](https://algojobs.io/jobs/4130435) | [Pave](https://algojobs.io/company/paveakatroveinformationtechnologies/) | $141K - $190K | San Francisco, California & New York, New York |
+| 05/19/2025 | [Senior Software Engineer - Frontend](https://algojobs.io/jobs/4121409) | [Mindbody](https://algojobs.io/company/mindbody/) | N/A | Brazil |
+| 05/19/2025 | [Senior Software Engineer - Frontend](https://algojobs.io/jobs/4121413) | [Mindbody](https://algojobs.io/company/mindbody/) | N/A | Mexico |
+| 05/19/2025 | [Senior React Frontend Developer - Poland](https://algojobs.io/jobs/4120904) | [Focal Systems](https://algojobs.io/company/focalsystems/) | $102K - $124K | Poland |
+| 05/19/2025 | [Senior Frontend Engineer - Product Experiences Platform](https://algojobs.io/jobs/4133145) | [Snowflake](https://algojobs.io/company/snowflake/) | N/A | US-CA-Menlo Park |
 | 05/16/2025 | [Senior Frontend engineer](https://algojobs.io/jobs/4114223) | [IE \| FNZ (Europe) Designated Activity Company](https://algojobs.io/company/fnz/) | N/A | Chiasso - Switzerland |
 | 05/15/2025 | [SR Desenvolvimento Frontend (React.JS) - Vaga afirmativa para mulheres](https://algojobs.io/jobs/4098210) | [ília](https://algojobs.io/company/ilia/) | N/A | Brasil  |
 | 05/15/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4097305) | [Cortex](https://algojobs.io/company/cortex/) | $170K - $225K | Remote |
 | 05/15/2025 | [BX - Senior Frontend Software Engineer](https://algojobs.io/jobs/4096952) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Tallinn |
-| 05/15/2025 | [Staff Frontend Engineer](https://algojobs.io/jobs/4082744) | [Zscaler](https://algojobs.io/company/zscaler/) | N/A | Ramat Gan, ISR |
+| 05/15/2025 | [Frontend Engineer, UI Platform](https://algojobs.io/jobs/4083878) | [Stripe](https://algojobs.io/company/stripe/) | N/A | Barcelona |
 | 05/15/2025 | [Frontend Engineer](https://algojobs.io/jobs/4087436) | [TransPerfect](https://algojobs.io/company/transperfect/) | N/A | Japan-Tokyo |
-| 05/14/2025 | [Frontend Developer (VDC)](https://algojobs.io/jobs/4082588) | [Veeam Software](https://algojobs.io/company/veeamsoftware/) | N/A | Remote, California, USA |
 | 05/14/2025 | [Frontend Engineer, Frontend Platform](https://algojobs.io/jobs/4067669) | [Handshake](https://algojobs.io/company/joinhandshake/) | $94K - $222K | San Francisco, CA (hybrid) |
 | 05/14/2025 | [Staff Software Engineer (Frontend) (SaaS)](https://algojobs.io/jobs/4080060) | [CreditorWatch](https://algojobs.io/company/creditorwatch/) | N/A | Sydney, New South Wales, Australia (Hybrid) |
 | 05/14/2025 | [Frontend Software Engineer - Product](https://algojobs.io/jobs/4070000) | [Mach9](https://algojobs.io/company/mach9/) | N/A | San Francisco |
 | 05/13/2025 | [Frontend Senior Software Engineer](https://algojobs.io/jobs/4067959) | [GoDaddy](https://algojobs.io/company/godaddy/) | N/A | Pune, Maharashtra, India |
 | 05/13/2025 | [Frontend Senior Software Engineer](https://algojobs.io/jobs/4067960) | [GoDaddy](https://algojobs.io/company/godaddy/) | N/A | Pune, Maharashtra, India |
-| 05/13/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/4067962) | [GoDaddy](https://algojobs.io/company/godaddy/) | N/A | Pune, Maharashtra, India |
 | 05/13/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/4056294) | [Lambda](https://algojobs.io/company/lambda-1/) | $255K - $405K | San Francisco Office |
+| 05/13/2025 | [Senior Software Engineer, Frontend](https://algojobs.io/jobs/4072651) | [DraftKings Inc.](https://algojobs.io/company/draftkings/) | N/A | Remote - Canada |
 | 05/13/2025 | [Frontend Developer](https://algojobs.io/jobs/4071782) | [DXC Technology](https://algojobs.io/company/dxctechnology/) | $105K - $195K | USA - NV - ANY CITY / USA - GA - ANY CITY / USA - NY - ANY CITY / ... |
 | 05/13/2025 | [Lead Frontend Developer](https://algojobs.io/jobs/4071779) | [DXC Technology](https://algojobs.io/company/dxctechnology/) | $131K - $243K | USA - MA - ANY CITY / USA - GA - ANY CITY / USA - NY - ANY CITY / ... |
 | 05/12/2025 | [Senior Software Engineer, Frontend - Websites Experience](https://algojobs.io/jobs/4055074) | [Squarespace](https://algojobs.io/company/squarespace/) | N/A | Dublin |
 | 05/12/2025 | [Senior Frontend Software Engineer \| Plataform Services](https://algojobs.io/jobs/4054771) | [Wellhub](https://algojobs.io/company/gympass/) | N/A | Brazil |
 | 05/12/2025 | [Frontend Engineer](https://algojobs.io/jobs/4054945) | [Cortex](https://algojobs.io/company/cortex/) | $135K - $175K | Remote |
-| 05/12/2025 | [Senior Frontend Engineer (React)](https://algojobs.io/jobs/4053856) | [Moniepoint](https://algojobs.io/company/moniepoint/) | N/A | Remote, Bangalore |
 | 05/12/2025 | [Sportsbook - Frontend Software Engineer](https://algojobs.io/jobs/4054610) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Athens |
 | 05/12/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/4052817) | [Kabam](https://algojobs.io/company/kabam/) | $95K - $119K | Vancouver |
 | 05/11/2025 | [Frontend Tech Lead - Cloud Security](https://algojobs.io/jobs/4050437) | [Tenable, Inc.](https://algojobs.io/company/tenableinc/) | N/A | Israel - Office - Tel Aviv |
-| 05/09/2025 | [Software Engineer III (Frontend)](https://algojobs.io/jobs/4040208) | [Zinnia](https://algojobs.io/company/zinnia/) | $115K - $135K | Boulder, CO - Hybrid |
 | 05/09/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4041584) | [Navan](https://algojobs.io/company/tripactions/) | $120K - $215K | Palo Alto, CA |
 | 05/09/2025 | [Software Engineer - Frontend](https://algojobs.io/jobs/4041131) | [Veza Technologies, Inc. ](https://algojobs.io/company/veza/) | N/A | USA or Slovenia or Croatia |
 | 05/09/2025 | [Frontend Engineer, Currency Management](https://algojobs.io/jobs/4041921) | [Stripe](https://algojobs.io/company/stripe/) | N/A | London |
@@ -44,160 +136,43 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 05/09/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/4029554) | [Leonardo.Ai](https://algojobs.io/company/leonardo.ai/) | N/A | Australia (Remote) |
 | 05/09/2025 | [Frontend Developer](https://algojobs.io/jobs/4038356) | [LoopMe](https://algojobs.io/company/loopme/) | N/A | Lviv, Lviv Oblast, Ukraine |
 | 05/08/2025 | [Staff Software Engineer (Frontend Engineering)](https://algojobs.io/jobs/4028516) | [OKX](https://algojobs.io/company/okx/) | $238K - $328K | San Jose, California, United States |
-| 05/08/2025 | [Software Engineer, Frontend (Consumer - International)](https://algojobs.io/jobs/4027676) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | N/A | Remote - Brazil |
-| 05/08/2025 | [Senior Frontend Developer](https://algojobs.io/jobs/4028265) | [Payoneer](https://algojobs.io/company/payoneer/) | N/A | Madrid, Spain |
 | 05/08/2025 | [Junior Frontend Engineer - API Hub for Design (SwaggerHub)](https://algojobs.io/jobs/4026512) | [SmartBear](https://algojobs.io/company/smartbear/) | N/A | Wrocław, Lower Silesian Voivodeship, Poland |
 | 05/08/2025 | [Frontend Engineer](https://algojobs.io/jobs/4026919) | [Ocado Group](https://algojobs.io/company/ocadogroup/) | N/A | Wroclaw, Poland |
 | 05/08/2025 | [(1038) Senior Frontend React Engineer](https://algojobs.io/jobs/4012226) | [Nearsure](https://algojobs.io/company/nearsure/) | N/A | Latin America - Remote |
 | 05/08/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/4025042) | [LVIS](https://algojobs.io/company/lvis-team/) | N/A | Seocho-daero 56-gil, Seoul, South Korea |
-| 05/08/2025 | [Frontend Software Engineer (Vanilla JavaScript) - Digital Markets](https://algojobs.io/jobs/4019420) | [Gartner](https://algojobs.io/company/gartner/) | N/A | Barcelona, Spain |
 | 05/08/2025 | [(Senior) Frontend Engineer](https://algojobs.io/jobs/4025943) | [Cognite](https://algojobs.io/company/cognite/) | N/A | Phoenix (Hybrid) |
-| 05/07/2025 | [Frontend (UI) Engineer, Email Security](https://algojobs.io/jobs/4014177) | [Cloudflare](https://algojobs.io/company/cloudflare/) | N/A | Hybrid |
-| 05/07/2025 | [Frontend Software Engineer - Contractor](https://algojobs.io/jobs/4011237) | [Simpluris](https://algojobs.io/company/simpluris/) | N/A | Lima, Callao Region, Peru |
 | 05/07/2025 | [Frontend Developer (React)](https://algojobs.io/jobs/4017783) | [ING Bank Personeel BV](https://algojobs.io/company/ing/) | N/A | Katowice (Zabrska 19), Poland |
 | 05/06/2025 | [Staff Software Engineer - Frontend](https://algojobs.io/jobs/3997497) | [Blinq Technologies](https://algojobs.io/company/blinq/) | N/A | Melbourne, Victoria / Sydney, New South Wales (Hybrid) |
 | 05/06/2025 | [Senior Frontend Developer](https://algojobs.io/jobs/4025987) | [Metasite Business Solutions](https://algojobs.io/company/metasite/) | N/A | Vilnius, Vilniaus (Hybrid) |
 | 05/05/2025 | [Frontend Developer](https://algojobs.io/jobs/3985407) | [Veeam Software](https://algojobs.io/company/veeamsoftware/) | N/A | Prague, Czechia |
-| 05/05/2025 | [Junior Frontend Software Engineer](https://algojobs.io/jobs/3985090) | [Pricefox](https://algojobs.io/company/pricefox/) | N/A | Athens, Greece |
-| 05/05/2025 | [Software Engineer - Frontend - 1572](https://algojobs.io/jobs/3983858) | [ION Group](https://algojobs.io/company/ion/) | N/A | Noida |
 | 05/05/2025 | [Développeur.se Senior (Front End)- Montréal /Senior Software Developer (FrontEnd)- Montreal](https://algojobs.io/jobs/3983875) | [Plusgrade](https://algojobs.io/company/plusgrade/) | N/A | Montreal, Quebec (Hybrid) |
-| 05/02/2025 | [Senior Frontend Engineer, Publisher Experience](https://algojobs.io/jobs/3971441) | [Reddit](https://algojobs.io/company/reddit/) | $190K - $267K | Austin, TX |
-| 05/02/2025 | [Senior Frontend Engineer, Publisher Experience](https://algojobs.io/jobs/3971444) | [Reddit](https://algojobs.io/company/reddit/) | $190K - $267K | New York City, NY |
-| 05/02/2025 | [Senior, Software Engineer, Frontend](https://algojobs.io/jobs/3978305) | [CHN Choice Hotels International Services](https://algojobs.io/company/choicehotels/) | N/A | Scottsdale AZ - Technology & Digital Commerce Center, United States of America |
 | 05/01/2025 | [Senior Frontend Engineer (React), Studio](https://algojobs.io/jobs/3959137) | [Creative Fabrica](https://algojobs.io/company/creativefabrica/) | N/A | Amsterdam, North Holland, Netherlands; Remote |
 | 05/01/2025 | [Frontend - Growth Engineer](https://algojobs.io/jobs/3959807) | [Resolve AI](https://algojobs.io/company/resolve-ai/) | N/A | San Francisco |
 | 04/30/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3944640) | [KoBold Metals](https://algojobs.io/company/koboldmetals/) | $160K - $220K | Remote |
 | 04/30/2025 | [Frontend Tech Lead \| Growth Retention](https://algojobs.io/jobs/3944846) | [Wellhub](https://algojobs.io/company/gympass/) | N/A | Brazil (Remote) |
 | 04/30/2025 | [Frontend Tech Lead \| Growth Retention](https://algojobs.io/jobs/3944844) | [Wellhub](https://algojobs.io/company/gympass/) | N/A | Portugal (Remote) |
 | 04/30/2025 | [Software Engineer - Frontend](https://algojobs.io/jobs/3946384) | [Swoop Technologies](https://algojobs.io/company/swoop/) | N/A | Minneapolis-St. Paul |
+| 04/30/2025 | [Staff Software Engineer Frontend - VueJS](https://algojobs.io/jobs/3946389) | [Ankorstore](https://algojobs.io/company/ankorstore/) | N/A | Paris |
 | 04/30/2025 | [Frontend Engineer](https://algojobs.io/jobs/3932360) | [Blacksmith](https://algojobs.io/company/blacksmith/) | N/A | New York City |
-| 04/29/2025 | [Frontend Software Engineer, Maneuver Dominance](https://algojobs.io/jobs/3932103) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $132K - $252K | Costa Mesa, California, United States |
-| 04/29/2025 | [Frontend Software Engineer, Maneuver Dominance](https://algojobs.io/jobs/3932118) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $132K - $252K | Boston, Massachusetts, United States |
-| 04/29/2025 | [Software Intern - Frontend](https://algojobs.io/jobs/3930915) | [Guidepoint](https://algojobs.io/company/guidepoint/) | N/A | Pune, Maharashtra, India |
 | 04/29/2025 | [Senior Frontend Native SDET with Media Comms](https://algojobs.io/jobs/3931359) | [Vonage](https://algojobs.io/company/vonage/) | N/A | Remote, Spain |
 | 04/29/2025 | [Sr. Frontend Engineer - CharlotteAI Team (Remote, ROU)](https://algojobs.io/jobs/3935996) | [CrowdStrike](https://algojobs.io/company/crowdstrike/) | N/A | Romania - Remote / Romania - Bucharest |
 | 04/28/2025 | [Frontend Software Engineer II](https://algojobs.io/jobs/3921738) | [Zendesk](https://algojobs.io/company/zendesk/) | N/A | Lisbon, Portugal |
-| 04/28/2025 | [Frontend Software Developer – AI SaaS Platform](https://algojobs.io/jobs/3916054) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | São Paulo / Florianópolis, Santa Catarina, Brazil / Rio de Janeiro, Rio de Janeiro, Brazil / ... (Remote) |
-| 04/28/2025 | [Frontend Software Developer – AI SaaS Platform](https://algojobs.io/jobs/3916060) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Recife, Pernambuco, Brazil / Salvador, Bahia / Brasília, Federal District, Brazil / ... (Remote) |
-| 04/28/2025 | [Frontend Software Developer – AI SaaS Platform](https://algojobs.io/jobs/3916067) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Bogota,D.C., Capital District / Medellin, Antioquia / Lima (Remote) |
-| 04/28/2025 | [Frontend Software Developer – AI SaaS Platform](https://algojobs.io/jobs/3916074) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Guatemala / Costa Rica / Mexico City / ... (Remote) |
-| 04/28/2025 | [Frontend Software Developer – AI SaaS Platform](https://algojobs.io/jobs/3916099) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Buenos Aires Province / Mendoza, Mendoza, Argentina / Cordoba / ... (Remote) |
-| 04/28/2025 | [Senior Frontend Application Specialist](https://algojobs.io/jobs/3914913) | [TV2 Consulting](https://algojobs.io/company/tv2-consulting-1/) | N/A | Montreal, Quebec, Canada (Hybrid) |
-| 04/28/2025 | [Senior Frontend Application Specialist](https://algojobs.io/jobs/3914915) | [TV2 Consulting](https://algojobs.io/company/tv2-consulting-1/) | N/A | Ottawa, Ontario, Canada (Hybrid) |
-| 04/28/2025 | [Senior Frontend Application Specialist](https://algojobs.io/jobs/3914916) | [TV2 Consulting](https://algojobs.io/company/tv2-consulting-1/) | N/A | Toronto, Ontario, Canada (Hybrid) |
 | 04/25/2025 | [Senior Software Engineer, Frontend - Checkout](https://algojobs.io/jobs/3903724) | [Squarespace](https://algojobs.io/company/squarespace/) | N/A | Dublin |
-| 04/25/2025 | [Senior Frontend Developer - JavaScript](https://algojobs.io/jobs/3902728) | [Appnovation Technologies](https://algojobs.io/company/appnovation/) | N/A | Mexico City |
-| 04/25/2025 | [Senior Frontend Developer - JavaScript](https://algojobs.io/jobs/3902729) | [Appnovation Technologies](https://algojobs.io/company/appnovation/) | N/A | San Jose  |
 | 04/25/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3903058) | [Snyk](https://algojobs.io/company/snyk/) | N/A | Lisbon, Portugal |
-| 04/25/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/3903009) | [Pricefox](https://algojobs.io/company/pricefox/) | N/A | Athens, Greece |
 | 04/25/2025 | [Senior Software Engineer, Frontend - Risk Platform](https://algojobs.io/jobs/3890252) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $191K - $191K | Remote - Canada |
-| 04/25/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3891054) | [Axon](https://algojobs.io/company/axon/) | N/A | Ho Chi Minh City, Vietnam |
 | 04/25/2025 | [Staff Frontend Engineer](https://algojobs.io/jobs/3904811) | [Sprig](https://algojobs.io/company/sprig-1/) | $200K - $250K | San Francisco, CA |
 | 04/25/2025 | [Frontend Leader (QB-FL-20250425)](https://algojobs.io/jobs/3901990) | [Celara](https://algojobs.io/company/celaralabs/) | N/A | Buenos Aires (Remote) |
 | 04/24/2025 | [Software Engineer, Frontend - Risk Platform](https://algojobs.io/jobs/3890254) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $152K - $179K | USA (Remote) |
-| 04/24/2025 | [Senior Frontend Developer - JavaScript](https://algojobs.io/jobs/3889531) | [Appnovation Technologies](https://algojobs.io/company/appnovation/) | N/A | São Paulo |
-| 04/24/2025 | [Software Engineering Team Lead (Frontend)](https://algojobs.io/jobs/3890808) | [Kaizen Gaming](https://algojobs.io/company/kaizengaming/) | N/A | Thessaloniki, Greece |
-| 04/24/2025 | [Software Engineering Team Lead (Frontend)](https://algojobs.io/jobs/3890806) | [Kaizen Gaming](https://algojobs.io/company/kaizengaming/) | N/A | Remote |
-| 04/24/2025 | [Software Engineering Team Lead (Frontend)](https://algojobs.io/jobs/3890809) | [Kaizen Gaming](https://algojobs.io/company/kaizengaming/) | N/A | Athens, Greece |
+| 04/24/2025 | [Frontend Engineer (Growth)- Berlin / Cologne / Remote](https://algojobs.io/jobs/3889691) | [eyeo](https://algojobs.io/company/eyeo/) | N/A | Berlin / Remote |
+| 04/24/2025 | [Senior Frontend Engineer- AxoniusX](https://algojobs.io/jobs/3890594) | [Axonius](https://algojobs.io/company/axonius/) | N/A | Tel Aviv, Israel |
 | 04/24/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3887998) | [Mintago](https://algojobs.io/company/mintago/) | N/A | London, England, United Kingdom (Hybrid) |
 | 04/23/2025 | [Senior Software Engineer - Frontend - Hotels](https://algojobs.io/jobs/3877386) | [ResortPass](https://algojobs.io/company/resortpass/) | $180K - $200K | New York |
 | 04/23/2025 | [Frontend Engineer II](https://algojobs.io/jobs/3878639) | [AppLovin](https://algojobs.io/company/applovin/) | $144K - $216K | Palo Alto, CA |
-| 04/23/2025 | [Frontend Developer](https://algojobs.io/jobs/3877254) | [Veeam Software](https://algojobs.io/company/veeamsoftware/) | N/A | Remote, California, USA |
 | 04/23/2025 | [Senior Frontend Software Engineer - Account Identity](https://algojobs.io/jobs/3877931) | [Roblox](https://algojobs.io/company/roblox/) | $192K - $238K | San Mateo, CA, United States |
-| 04/22/2025 | [STAFF, SOFTWARE ENGINEER (FRONTEND)](https://algojobs.io/jobs/3869664) | [Walmart](https://algojobs.io/company/walmart/) | N/A | IN KA BANGALORE Home Office PW II, India |
-| 04/22/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3864991) | [Robin AI](https://algojobs.io/company/robin-ai/) | $95K - $110K | London |
-| 04/21/2025 | [Senior Frontend Engineer, Engineering Foundation](https://algojobs.io/jobs/3850033) | [CookUnity](https://algojobs.io/company/cookunity/) | $150K - $165K | New York, New York, United States |
+| 04/22/2025 | [Pessoa Engenheira de Software Frontend Pleno - React](https://algojobs.io/jobs/3863402) | [RD Station](https://algojobs.io/company/rdstation/) | N/A | Remoto |
 | 04/21/2025 | [Software Engineer, Frontend (Consumer - Trading)](https://algojobs.io/jobs/3850516) | [Coinbase Careers Page](https://algojobs.io/company/coinbase/) | $152K - $179K | USA (Remote) |
 | 04/21/2025 | [Senior Frontend Engineer – Angular & Micro Frontends(7-10 Years of experience)](https://algojobs.io/jobs/3852166) | [FICO](https://algojobs.io/company/fico/) | N/A | Bangalore, India |
 | 04/21/2025 | [Frontend Engineer (Remote - Romania)](https://algojobs.io/jobs/3851693) | [Masabi](https://algojobs.io/company/masabi/) | N/A | Romania (Remote) |
-| 04/21/2025 | [Frontend Engineer (Remote - Colombia)](https://algojobs.io/jobs/3851694) | [Masabi](https://algojobs.io/company/masabi/) | N/A | Colombia (Remote) |
-| 04/17/2025 | [Senior Micro Frontend Engineer (React & Angular)](https://algojobs.io/jobs/3828260) | [Hitachi Vantara Corporation](https://algojobs.io/company/hitachivantaracorporation/) | N/A | Hyderabad |
 | 04/17/2025 | [Senior Software Engineer - Frontend - Core Design System](https://algojobs.io/jobs/3827577) | [Five9](https://algojobs.io/company/five9/) | N/A | Porto, Portugal (Hybrid) |
 | 04/17/2025 | [BX - Senior Frontend Software Engineer](https://algojobs.io/jobs/3814826) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Athens |
 | 04/17/2025 | [Senior Software Engineer, Frontend](https://algojobs.io/jobs/3832259) | [DraftKings Inc.](https://algojobs.io/company/draftkings/) | N/A | Remote - Bulgaria |
-| 04/17/2025 | [Frontend Engineer](https://algojobs.io/jobs/3826165) | [Tecknoworks Europe](https://algojobs.io/company/tecknoworks/) | N/A | Romania (Remote) |
-| 04/17/2025 | [Frontend - UI Engineer](https://algojobs.io/jobs/3830057) | [Rocket Science Group](https://algojobs.io/company/rocketsciencegg/) | N/A | Cardiff, Wales, UK |
-| 04/17/2025 | [Frontend - UI Engineer](https://algojobs.io/jobs/3830058) | [Rocket Science Group](https://algojobs.io/company/rocketsciencegg/) | N/A | Brighton, UK |
-| 04/17/2025 | [Frontend Mobile-Android/IOS](https://algojobs.io/jobs/3818235) | [Kyndryl](https://algojobs.io/company/kyndryl/) | N/A | INMANBP Bangalore (INMANBP) Manyatha / KIN51438 Hyderabad (KIN51438) Gachibowli / KIN51655 Gurugram (KIN51655) / ... |
-| 04/16/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3814709) | [Udacity](https://algojobs.io/company/udacity/) | N/A | The United States of America |
-| 04/16/2025 | [Junior Frontend Engineer (JavaScript/ReactJS) - Naver Services](https://algojobs.io/jobs/3814567) | [NAVER VIETNAM](https://algojobs.io/company/navervietnam/) | N/A | Ho Chi Minh City, Vietnam |
-| 04/16/2025 | [Software Engineer, Product Frontend (6+ YOE)](https://algojobs.io/jobs/3801022) | [Airtable](https://algojobs.io/company/airtable/) | $196K - $277K | San Francisco, CA; New York, NY |
-| 04/16/2025 | [Software Engineering Leader (Frontend)](https://algojobs.io/jobs/3812847) | [dLocal](https://algojobs.io/company/dlocal/) | N/A | Madrid (Remote) / Barcelona (Remote) / Spain |
-| 04/16/2025 | [Senior Software Engineer - Frontend - Growth Insights](https://algojobs.io/jobs/3816533) | [Kraken](https://algojobs.io/company/kraken.com/) | N/A | United States |
-| 04/16/2025 | [Frontend Engineer](https://algojobs.io/jobs/3816938) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Tel Aviv, ISR, Israel |
-| 04/15/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3811316) | [DISCO](https://algojobs.io/company/disco-2/) | N/A | Melbourne, Victoria, Australia (Hybrid) |
-| 04/15/2025 | [FrontEnd (Web) Developer](https://algojobs.io/jobs/3798173) | [OKTO](https://algojobs.io/company/okto/) | N/A | Marousi, Attica, Greece (Hybrid) |
-| 04/14/2025 | [Senior Software Engineer, Frontend](https://algojobs.io/jobs/3788109) | [Playground](https://algojobs.io/company/playground/) | $170K - $210K | New York City |
-| 04/14/2025 | [Staff Software Engineer, Frontend](https://algojobs.io/jobs/3788110) | [Playground](https://algojobs.io/company/playground/) | $190K - $240K | New York City |
-| 04/14/2025 | [Frontend Developer](https://algojobs.io/jobs/3784909) | [CarTrawler](https://algojobs.io/company/cartrawler/) | N/A | Dublin (Hybrid) |
-| 04/11/2025 | [Frontend Engineer](https://algojobs.io/jobs/3770857) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Guadalajara, Jalisco, Mexico |
-| 04/11/2025 | [Frontend Engineer](https://algojobs.io/jobs/3770860) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Guadalajara, Jalisco, Mexico |
-| 04/11/2025 | [Frontend Engineer](https://algojobs.io/jobs/3770862) | [Backbase](https://algojobs.io/company/workatbackbase/) | N/A | Guadalajara, Jalisco, Mexico |
-| 04/11/2025 | [Frontend Engineer, Growth](https://algojobs.io/jobs/3770589) | [ClickUp](https://algojobs.io/company/clickup/) | $130K - $165K | Canada; United States |
-| 04/11/2025 | [Betsson Academy - Frontend Software Engineer Intern](https://algojobs.io/jobs/3771702) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Budapest |
-| 04/11/2025 | [Frontend Vibe Coding Lead](https://algojobs.io/jobs/3770941) | [Oliv AI](https://algojobs.io/company/olivai/) | N/A | India |
-| 04/11/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3773427) | [Pulley](https://algojobs.io/company/withpulley/) | N/A | San Francisco |
-| 04/11/2025 | [Staff Frontend Engineer (f/m/d)](https://algojobs.io/jobs/3777285) | [Adverity](https://algojobs.io/company/adverity/) | N/A | Vienna, Vienna, Austria (Hybrid) |
-| 04/11/2025 | [Frontend Software Developer](https://algojobs.io/jobs/3778339) | [Airbus](https://algojobs.io/company/ag/) | N/A | Gdansk, Poland |
-| 04/10/2025 | [Staff Software Engineer, Frontend Platforms](https://algojobs.io/jobs/3757872) | [EvolutionIQ](https://algojobs.io/company/evolutioniq/) | N/A | New York, NY |
-| 04/10/2025 | [Frontend Software Engineer](https://algojobs.io/jobs/3763018) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | Spain - Barcelona |
-| 04/10/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3763009) | [AstraZeneca](https://algojobs.io/company/astrazeneca/) | N/A | Spain - Barcelona |
-| 04/10/2025 | [Frontend Engineer](https://algojobs.io/jobs/3759473) | [Qventus](https://algojobs.io/company/qventus/) | N/A | Remote, Latin America |
-| 04/10/2025 | [SDE 2 - Frontend](https://algojobs.io/jobs/3755581) | [Dream Sports](https://algojobs.io/company/dreamsports/) | N/A | Mumbai |
-| 04/09/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3745890) | [Marsh McLennan](https://algojobs.io/company/mmc/) | N/A | Dallas - Main, United States of America |
-| 04/09/2025 | [Engineer(Frontend)](https://algojobs.io/jobs/3721903) | [Menlo Security](https://algojobs.io/company/menlosecurity/) | N/A | APAC - India |
-| 04/09/2025 | [Working Student Frontend Engineer - Research AI (m/f/d)](https://algojobs.io/jobs/3745351) | [Statista](https://algojobs.io/company/statista/) | N/A | Hamburg |
-| 04/08/2025 | [BX - Senior Frontend Software Engineer](https://algojobs.io/jobs/3718027) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Malta |
-| 04/08/2025 | [Sportsbook - Frontend Software Engineer](https://algojobs.io/jobs/3718029) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Malta |
-| 04/08/2025 | [BX - Senior Frontend Software Engineer](https://algojobs.io/jobs/3718024) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Budapest |
-| 04/08/2025 | [Sportsbook - Frontend Software Engineer](https://algojobs.io/jobs/3718032) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Budapest |
-| 04/07/2025 | [Software Engineer 1 (Frontend)](https://algojobs.io/jobs/3702111) | [Demandbase](https://algojobs.io/company/demandbase/) | N/A | Hyderabad |
-| 04/07/2025 | [Software Development Engineer, Frontend - Payments & Fraud](https://algojobs.io/jobs/3701532) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
-| 04/07/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3721897) | [Isometric](https://algojobs.io/company/isometric/) | N/A | London |
-| 04/07/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3721904) | [Menlo Security](https://algojobs.io/company/menlosecurity/) | N/A | EMEA - UK |
-| 04/07/2025 | [Senior Frontend Developer](https://algojobs.io/jobs/3849075) | [DEUNA](https://algojobs.io/company/deuna/) | N/A | Costa Rica / Ciudad de México / Honduras / ... (Hybrid) |
-| 04/05/2025 | [Frontend Engineer](https://algojobs.io/jobs/3700959) | [Drivetrain](https://algojobs.io/company/drivetrain/) | N/A | United States (Remote) |
-| 04/04/2025 | [Senior Software Engineer - Frontend](https://algojobs.io/jobs/3702353) | [Mindbody](https://algojobs.io/company/mindbody/) | N/A | Brazil |
-| 04/04/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3701051) | [LastPass](https://algojobs.io/company/lastpass/) | N/A | Remote - Portugal |
-| 04/04/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3701052) | [LastPass](https://algojobs.io/company/lastpass/) | N/A | Remote - Hungary |
-| 04/03/2025 | [Frontend Software Engineer - Autonomy UI](https://algojobs.io/jobs/3687389) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $168K - $252K | Pittsburgh, Pennsylvania, United States |
-| 04/03/2025 | [Frontend Developer](https://algojobs.io/jobs/3691800) | [AspenTech](https://algojobs.io/company/aspentech/) | N/A |  |
-| 04/02/2025 | [Software Engineer II (Frontend) - Core Product](https://algojobs.io/jobs/3670973) | [BILL](https://algojobs.io/company/billcom/) | $126K - $151K | San Jose, California, United States |
-| 04/02/2025 | [Senior Frontend Engineer — Productivity & Agent Automation](https://algojobs.io/jobs/3671500) | [xAI](https://algojobs.io/company/xai/) | $180K - $440K | San Francisco & Palo Alto, CA |
-| 04/02/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3675812) | [Tricentis](https://algojobs.io/company/tricentis/) | N/A | AT - Vienna, Austria |
-| 04/01/2025 | [Principal Software Engineer - Frontend Architecture](https://algojobs.io/jobs/3656980) | [Roblox](https://algojobs.io/company/roblox/) | $289K - $338K | San Mateo, CA, United States |
-| 04/01/2025 | [Senior Software Frontend Engineer, Safety Foundation](https://algojobs.io/jobs/3656940) | [Roblox](https://algojobs.io/company/roblox/) | $192K - $238K | San Mateo, CA, United States |
-| 04/01/2025 | [Frontend Engineer (Avalor)](https://algojobs.io/jobs/3656044) | [Zscaler](https://algojobs.io/company/zscaler/) | N/A | Ramat Gan, ISR |
-| 04/01/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3639494) | [Clerk Chat](https://algojobs.io/company/clerkchat/) | N/A | San Francisco |
-| 03/31/2025 | [Senior Frontend Engineer (Contractor)](https://algojobs.io/jobs/3639024) | [Sysdig](https://algojobs.io/company/sysdig/) | N/A | Milan |
-| 03/28/2025 | [Senior UI/Frontend Engineer](https://algojobs.io/jobs/3620895) | [Take-Two Interactive Software, Inc.](https://algojobs.io/company/taketwo/) | $87K - $129K | Vancouver, British Columbia, Canada |
-| 03/28/2025 | [Senior Frontend Engineer, Core Foundation](https://algojobs.io/jobs/3622038) | [Airbnb](https://algojobs.io/company/airbnb/) | $191K - $223K | United States |
-| 03/28/2025 | [Software Engineer - Frontend Elm](https://algojobs.io/jobs/3621145) | [Avetta, LLC](https://algojobs.io/company/avetta/) | $75K - $220K | US (Remote) |
-| 03/28/2025 | [Senior Frontend Engineer (React)](https://algojobs.io/jobs/3620857) | [Credit Karma](https://algojobs.io/company/creditkarma/) | N/A | Bengaluru, Karnataka, India |
-| 03/28/2025 | [Software Engineer - 2 (Application Pod \| Frontend)](https://algojobs.io/jobs/3622348) | [Parspec](https://algojobs.io/company/parspec-1/) | N/A | Hybrid - Bangalore, India |
-| 03/28/2025 | [(Senior) Frontend Engineer](https://algojobs.io/jobs/3610692) | [Cognite](https://algojobs.io/company/cognite/) | N/A | Bengaluru (Hybrid) |
-| 03/27/2025 | [UI Frontend Engineer (HTML/CSS/UX)](https://algojobs.io/jobs/3595637) | [NAVER VIETNAM](https://algojobs.io/company/navervietnam/) | N/A | Ho Chi Minh City, Vietnam |
-| 03/27/2025 | [Software Engineer, Frontend](https://algojobs.io/jobs/3609835) | [Maven AGI](https://algojobs.io/company/mavenagi/) | N/A | United States (Remote) |
-| 03/27/2025 | [Software Engineer, Frontend - ChatGPT for Work](https://algojobs.io/jobs/3614268) | [OpenAI](https://algojobs.io/company/openai/) | N/A | Seattle |
-| 03/27/2025 | [Lead Engineer- Frontend](https://algojobs.io/jobs/3599773) | [Target](https://algojobs.io/company/target/) | N/A | Bangalore,India |
-| 03/27/2025 | [(Senior) Frontend Engineer](https://algojobs.io/jobs/3610699) | [Cognite](https://algojobs.io/company/cognite/) | N/A | Austin, Texas (Hybrid) |
-| 03/27/2025 | [(Senior) Frontend Engineer](https://algojobs.io/jobs/3610700) | [Cognite](https://algojobs.io/company/cognite/) | N/A | Oslo (Hybrid) |
-| 03/26/2025 | [Senior Frontend Engineer, Publisher Experience](https://algojobs.io/jobs/3596524) | [Reddit](https://algojobs.io/company/reddit/) | $190K - $267K | Remote - United States |
-| 03/26/2025 | [Software Engineer III, Frontend (Remote)](https://algojobs.io/jobs/3593982) | [Shippo](https://algojobs.io/company/shippo/) | $133 - $181 | United States (Remote) |
-| 03/26/2025 | [Senior Software Engineer \| GTM Platform, Frontend](https://algojobs.io/jobs/3597321) | [Ramp](https://algojobs.io/company/ramp/) | N/A | New York |
-| 03/26/2025 | [Founding AI Frontend Developer](https://algojobs.io/jobs/3597236) | [Naptha AI](https://algojobs.io/company/naptha/) | N/A | Remote |
-| 03/25/2025 | [Frontend Software Engineer - Autonomy UI](https://algojobs.io/jobs/3584563) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $168K - $252K | Costa Mesa, California, United States |
-| 03/25/2025 | [Frontend Software Engineer - Autonomy UI](https://algojobs.io/jobs/3584567) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $168K - $252K | Seattle, Washington, United States |
-| 03/25/2025 | [Frontend Software Engineer - Autonomy UI](https://algojobs.io/jobs/3584569) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | $168K - $252K | Boston, Massachusetts, United States |
-| 03/25/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3582134) | [FLYR](https://algojobs.io/company/flyr/) | N/A | Kraków, Poland |
-| 03/24/2025 | [Frontend Engineer, Flash Array](https://algojobs.io/jobs/3568687) | [Pure Storage](https://algojobs.io/company/purestorage/) | N/A | Prague, Czech Republic |
-| 03/24/2025 | [Frontend Software Engineer - Gaming](https://algojobs.io/jobs/3568009) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Tallinn |
-| 03/24/2025 | [Senior Frontend Software Engineer, Commercial Software & Services](https://algojobs.io/jobs/3570554) | [General Motors](https://algojobs.io/company/generalmotors/) | N/A | Mountain View, California, United States of America |
-| 03/24/2025 | [Frontend Engineer](https://algojobs.io/jobs/3574042) | [Santander](https://algojobs.io/company/santander/) | N/A | Boadilla del Monte, Spain |
-| 03/21/2025 | [Software Engineer, Frontend](https://algojobs.io/jobs/3552637) | [Instabase](https://algojobs.io/company/instabase/) | N/A | Bengaluru, India |
-| 03/21/2025 | [Senior Frontend (React) Engineer](https://algojobs.io/jobs/3553355) | [Microblink](https://algojobs.io/company/microblink/) | N/A | Zagreb, Croatia |
-| 03/20/2025 | [Senior Frontend Engineer (React), Growth](https://algojobs.io/jobs/3538965) | [Creative Fabrica](https://algojobs.io/company/creativefabrica/) | N/A | Amsterdam, North Holland, Netherlands |
-| 03/20/2025 | [Frontend Engineer, APAC Media](https://algojobs.io/jobs/3529059) | [Yahoo](https://algojobs.io/company/ouryahoo/) | N/A | Taiwan |
-| 03/20/2025 | [Desenvolvedor Frontend Pleno](https://algojobs.io/jobs/3541922) | [Skydropx](https://algojobs.io/company/skydropx/) | N/A | Birigui |
-| 03/19/2025 | [Frontend Engineer](https://algojobs.io/jobs/3525336) | [dv01](https://algojobs.io/company/dv01/) | $100K - $120K | USA (Remote) |
-| 03/19/2025 | [Sr. Software Engineer, Frontend](https://algojobs.io/jobs/3525969) | [Peloton](https://algojobs.io/company/peloton/) | $173K - $234K | New York, New York |
